@@ -1,14 +1,8 @@
 ## Hello World 👋
 Sou o João Paulo e seja muito bem vindo.
-
-- 🔭 I’m currently working on ...
-- 🌱 Estou estudando Data Science.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Tenho 21 anos
+-  Estou estudando Data Science.
+-  No momento estou em Python e SQL, mas pretendendo expandir para mais linguagens de programação
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloCosta812&count_private=true&show_icons=true&theme=tokyonight" />
@@ -27,3 +21,8 @@ Sou o João Paulo e seja muito bem vindo.
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPauloCosta812/JoaoPauloCosta812/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPauloCosta812/JoaoPauloCosta812/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoPauloCosta812/JoaoPauloCosta812/output/github-contribution-grid-snake.svg">
+</picture>
