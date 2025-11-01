@@ -13,7 +13,7 @@ Estou em constante aprendizado, aberto a novos desafios e oportunidades que me p
 Para conhecer mais sobre mim e meus projetos, pode me chamar:
 
 <p align="center">
-  <a href="mailto:paulojooleitecosta@gmail.com" title="E-mail" target="_blank">📧 Gmail</a> |
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=paulojooleitecosta@gmail.com" target="_blank" title="E-mail">📧 Gmail</a> |
   <a href="https://www.linkedin.com/in/joaopaulocostaleite812" title="LinkedIn" target="_blank">💼 LinkedIn</a> |
   <a href="https://www.kaggle.com/joopaulocosta812" title="Kaggle" target="_blank">📊 Kaggle</a>
 </p>
