@@ -12,10 +12,13 @@ Atualmente, sou estudante de Ciência de Dados na EBAC e venho construindo proje
 Estou em constante aprendizado, aberto a novos desafios e oportunidades que me permitam aplicar e expandir minhas habilidades. Meu objetivo é seguir evoluindo como Analista/Cientista de Dados Júnior, unindo curiosidade, análise crítica e criatividade para gerar soluções inteligentes.
 Para conhecer mais sobre mim e meus projetos, pode me chamar:
 
-<a href='mailto:paulojooleitecosta@gmail.com' title='E-mail'>Gmail</a>
-<a href='https://www.linkedin.com/in/joaopaulocostaleite812' target='_blank' title='LinkedIn'>LinkedIn<a>
-<a href='https://www.kaggle.com/joopaulocosta812' target='_blank' title='Kaggle'>Kaggle</a>
+<p align="center">
+  <a href="mailto:paulojooleitecosta@gmail.com" title="E-mail" target="_blank">📧 Gmail</a> |
+  <a href="https://www.linkedin.com/in/joaopaulocostaleite812" title="LinkedIn" target="_blank">💼 LinkedIn</a> |
+  <a href="https://www.kaggle.com/joopaulocosta812" title="Kaggle" target="_blank">📊 Kaggle</a>
+</p>
 
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloCosta812&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
