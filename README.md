@@ -1,6 +1,6 @@
 ## 👋 Hello World!
 Seja muito bem-vindo(a) ao meu GitHub!  
-Me chamo **João Paulo Costa**, tenho **22 anos** e sou **estudante de Ciência de Dados**, apaixonado por tecnologia, análise e aprendizado contínuo.
+Me chamo **João Paulo Costa**, tenho **22 anos** e sou **formado em Ciência de Dados** pela **EBAC**, apaixonado por tecnologia, análise e aprendizado contínuo.
 
 ---
 
