@@ -32,7 +32,7 @@ Dashboard interativo desenvolvido em **Streamlit**, com foco em análise explora
 🐍 [**Python – Projeto Final EBAC**](https://github.com/JoaoPauloCosta812/Python-Projeto-Final-EBAC)  
 Projeto integrador envolvendo **limpeza de dados**, **análise estatística**, **modelagem preditiva** e apresentação de resultados, aplicando conceitos fundamentais da Ciência de Dados.
 
-🗄️ [**SQL – Projeto EBAC**](https://github.com/JoaoPauloCosta812/SQL-na-AWS-Projeto-EBAC)   
+🗄️ [**SQL na AWS – Projeto EBAC**](https://github.com/JoaoPauloCosta812/SQL-na-AWS-Projeto-EBAC)   
 Criação de banco de dados relacional e desenvolvimento de **consultas SQL avançadas** (joins, agregações e views) para análise de dados.
 
 🔍 [**Desafio da Imersão de Dados Python**](https://github.com/JoaoPauloCosta812/Desafio-da-Imersao-de-Dados-Python)   
