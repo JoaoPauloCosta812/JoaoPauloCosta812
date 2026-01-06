@@ -1,6 +1,6 @@
 ## 👋 Hello World!  
 Seja muito bem-vindo(a) ao meu GitHub!  
-Me chamo **João Paulo Costa**, tenho **21 anos**, e sou apaixonado por **tecnologia, arte e aprendizado contínuo**.
+Me chamo **João Paulo Costa**, tenho **21 anos** e sou apaixonado por **tecnologia, dados e aprendizado contínuo**.
 
 ---
 
@@ -8,18 +8,18 @@ Me chamo **João Paulo Costa**, tenho **21 anos**, e sou apaixonado por **tecnol
 Desde pequeno, sempre fui curioso por padrões — seja em números, seja no comportamento das pessoas.  
 Essa curiosidade me levou ao universo da **Ciência de Dados**, onde descobri que é possível transformar informações em **insights que geram impacto real**.
 
-Minha trajetória começou em áreas de **atendimento e suporte administrativo**, onde aprendi sobre empatia, comunicação e organização — habilidades que hoje aplico na análise e interpretação de dados.
+Minha trajetória começou em áreas de **atendimento e suporte administrativo**, onde desenvolvi habilidades essenciais como **comunicação clara, organização e empatia** — competências que hoje me ajudam a interpretar dados com foco nas necessidades humanas.
 
-Atualmente, sou **estudante de Ciência de Dados na EBAC** e desenvolvo projetos que unem **estatística, programação e storytelling analítico**.
+Atualmente, sou **estudante de Ciência de Dados na EBAC** e venho construindo projetos que unem **estatística, programação e storytelling analítico**, sempre buscando extrair significado e valor a partir de dados.
 
 ---
 
 ### 🧠 O que eu faço
-- 📊 **Análises exploratórias de dados** com *Pandas*, *Seaborn* e *Matplotlib*  
-- 🤖 **Modelos de Machine Learning** (Scikit-learn, regressões, árvores, Random Forest)  
+- 📊 **Análises exploratórias de dados** com Pandas, Seaborn e Matplotlib  
+- 🤖 **Modelos de Machine Learning** com Scikit-Learn (regressões, árvores, Random Forest)  
 - 🧮 **Estatística aplicada e visualização de dados**  
-- 🌐 **Dashboards interativos** com *Streamlit*  
-- 🗄️ **Consultas e ETL** com *SQL e Python*
+- 🌐 **Dashboards interativos** com Streamlit  
+- 🗄️ **Consultas e ETL** com SQL e Python
 
 ---
 
@@ -35,17 +35,17 @@ Atualmente, sou **estudante de Ciência de Dados na EBAC** e desenvolvo projetos
 ---
 
 ### 🧩 Projetos em Destaque
-📊 [**Dashboard Interativo – Imersão Dados Python**](https://github.com/JoaoPauloCosta812/Dashboard-Interativo-Imersao-Dados-Python)  
-Desenvolvimento de um **dashboard interativo** em Streamlit para explorar dados reais, com visualizações dinâmicas em Pandas, Plotly e Seaborn, focado em storytelling e insights para decisão.
+📊 [**Dashboard Interativo – Imersão Dados Python**](https://github.com/JoaoPauloCosta812/Dashboard-interativo-Imersao-dados-python)  
+Desenvolvimento de um dashboard interativo em Streamlit para exploração de dados reais, com visualizações dinâmicas e insights claros para tomada de decisão.
 
 🐍 [**Python Projeto Final EBAC**](https://github.com/JoaoPauloCosta812/Python-Projeto-Final-EBAC)  
-Projeto integrador de Python que envolve limpeza de dados, análise estatística, modelagem preditiva (ML) e apresentação dos resultados — aplicando conceitos aprendidos no curso de Ciência de Dados.
+Projeto integrador em Python envolvendo limpeza de dados, análise estatística, modelagem preditiva (ML) e apresentação de resultados — aplicando conceitos práticos do curso de Ciência de Dados.
 
 🗄️ [**SQL Projeto EBAC**](https://github.com/JoaoPauloCosta812/SQL-Projeto-EBAC)  
-Construção de banco de dados relacional + consultas complexas (joíns, agregações, views) para análise de dados. Demonstra domínio de SQL e manipulação eficiente de dados.
+Construção de banco de dados relacional e criação de consultas complexas (joins, agregações, views) para análise e interpretação de dados.
 
-🔍 [**Desafio da Imersão de Dados Python**](https://github.com/JoaoPauloCosta812/Desafio-Imersao-Dados-Python)  
-Desafio prático com dataset real, explorando dados, lidando com valores faltantes, criando visualizações e relatórios em Python — mostra iniciativa e capacidade analítica aplicada.
+🔍 [**Desafio da Imersão de Dados Python**](https://github.com/JoaoPauloCosta812/Desafio-da-Imersao-de-Dados-Python)  
+Aplicação prática de análise exploratória de um dataset real, lidando com limpeza de dados, visualizações e insights em Python.
 
 ---
 
@@ -59,17 +59,13 @@ Desafio prático com dataset real, explorando dados, lidando com valores faltant
 ---
 
 ### 📈 Estatísticas do GitHub
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloCosta812&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="38%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloCosta812&layout=compact&theme=tokyonight" />
-</a>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPauloCosta812/JoaoPauloCosta812/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPauloCosta812/JoaoPauloCosta812/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoPauloCosta812/JoaoPauloCosta812/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JoaoPauloCosta812&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloCosta812&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
+</p>
