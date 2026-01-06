@@ -10,7 +10,7 @@ Essa curiosidade me levou à **Ciência de Dados**, área na qual encontrei a po
 
 Minha trajetória profissional começou em áreas de **atendimento e suporte administrativo**, onde desenvolvi habilidades como **comunicação clara, empatia e organização**. Hoje, aplico esse olhar humano na análise e interpretação de dados.
 
-Atualmente, sou **estudante de Ciência de Dados na EBAC**, com foco em projetos práticos que unem **estatística, programação e storytelling analítico**.
+Atualmente, sou **formado em Ciência de Dados pela EBAC** e estou focado no desenvolvimento de **projetos práticos** que envolvem análise exploratória, modelagem de dados, visualização e storytelling analítico, aplicando conceitos de estatística e machine learning a problemas reais.
 
 ---
 
