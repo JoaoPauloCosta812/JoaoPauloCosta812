@@ -10,32 +10,32 @@ Essa curiosidade me levou à **Ciência de Dados**, área na qual encontrei a po
 
 Minha trajetória profissional começou em áreas de **atendimento e suporte administrativo**, onde desenvolvi habilidades como **comunicação clara, empatia e organização**. Hoje, aplico esse olhar humano na análise e interpretação de dados.
 
-Atualmente, sou **formado em Ciência de Dados pela EBAC** e estou focado no desenvolvimento de **projetos práticos** que envolvem análise exploratória, modelagem de dados, visualização e storytelling analítico, aplicando conceitos de estatística e machine learning a problemas reais.
+Atualmente, atuo no desenvolvimento de **projetos práticos em Ciência de Dados**, envolvendo **análise exploratória**, **modelagem**, **visualização** e **storytelling analítico**, aplicando conceitos de **estatística** e **machine learning** a problemas reais.
 
 ---
 
 ## 🧠 O que eu faço
 - 📊 **Análise Exploratória de Dados (EDA)**
-- 🧮 **Estatística aplicada**
-- 🤖 **Modelos de Machine Learning** (Scikit-learn)
-- 🌐 **Dashboards interativos** com Streamlit
+- 🧮 **Estatística aplicada à análise de dados**
+- 🤖 **Modelagem e Machine Learning** (Scikit-learn)
+- 🌐 **Desenvolvimento de dashboards interativos** com Streamlit
 - 🗄️ **SQL para análise e manipulação de dados**
-- 📈 **Storytelling com dados para tomada de decisão**
+- 📈 **Storytelling com dados** para apoio à tomada de decisão
 
 ---
 
 ## 🧩 Projetos em Destaque
 
-📊 [**Dashboard Interativo – Imersão Dados Python**](https://github.com/JoaoPauloCosta812/Dashboard-interativo-Imersao-dados-python)   
-Dashboard interativo desenvolvido em **Streamlit**, com foco em análise exploratória, visualizações dinâmicas e geração de insights a partir de dados reais.
+📊 [**Dashboard Interativo – Imersão Dados Python**](https://github.com/JoaoPauloCosta812/Dashboard-interativo-Imersao-dados-python)  
+Dashboard interativo desenvolvido em **Streamlit**, com foco em **análise exploratória**, **visualizações dinâmicas** e **geração de insights** a partir de dados reais.
 
 🐍 [**Python – Projeto Final EBAC**](https://github.com/JoaoPauloCosta812/Python-Projeto-Final-EBAC)  
-Projeto integrador envolvendo **limpeza de dados**, **análise estatística**, **modelagem preditiva** e apresentação de resultados, aplicando conceitos fundamentais da Ciência de Dados.
+Projeto integrador envolvendo **limpeza de dados**, **análise estatística**, **modelagem preditiva** e **apresentação de resultados**, aplicando conceitos fundamentais da Ciência de Dados.
 
-🗄️ [**SQL na AWS – Projeto EBAC**](https://github.com/JoaoPauloCosta812/SQL-na-AWS-Projeto-EBAC)   
-Criação de banco de dados relacional e desenvolvimento de **consultas SQL avançadas** (joins, agregações e views) para análise de dados.
+🗄️ [**SQL na AWS – Projeto EBAC**](https://github.com/JoaoPauloCosta812/SQL-na-AWS-Projeto-EBAC)  
+Criação de banco de dados relacional e desenvolvimento de **consultas SQL avançadas** (joins, agregações e views) para análise de dados em ambiente **AWS**.
 
-🔍 [**Desafio da Imersão de Dados Python**](https://github.com/JoaoPauloCosta812/Desafio-da-Imersao-de-Dados-Python)   
+🔍 [**Desafio da Imersão de Dados Python**](https://github.com/JoaoPauloCosta812/Desafio-da-Imersao-de-Dados-Python)  
 Desafio prático com dados reais, abordando **tratamento de dados**, **visualizações** e **análise exploratória**, demonstrando iniciativa e capacidade analítica.
 
 ---
@@ -51,7 +51,7 @@ Desafio prático com dados reais, abordando **tratamento de dados**, **visualiza
 ---
 
 ## 🎯 Objetivo Profissional
-Atuar como **Analista ou Cientista de Dados Júnior**, aplicando dados, estatística e programação para apoiar decisões estratégicas e gerar valor por meio de insights claros e acionáveis.
+Atuar como **Analista ou Cientista de Dados Júnior**, aplicando dados, estatística e programação para apoiar decisões estratégicas e gerar valor por meio de **insights claros e acionáveis**.
 
 ---
 
