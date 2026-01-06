@@ -26,20 +26,16 @@ Atualmente, sou **estudante de Ciência de Dados na EBAC**, com foco em projetos
 
 ## 🧩 Projetos em Destaque
 
-📊 **Dashboard Interativo – Imersão Dados Python**  
-🔗 https://github.com/JoaoPauloCosta812/Dashboard-interativo-Imersao-dados-python  
+📊 [**Dashboard Interativo – Imersão Dados Python**](https://github.com/JoaoPauloCosta812/Dashboard-interativo-Imersao-dados-python)   
 Dashboard interativo desenvolvido em **Streamlit**, com foco em análise exploratória, visualizações dinâmicas e geração de insights a partir de dados reais.
 
-🐍 **Python – Projeto Final EBAC**  
-🔗 https://github.com/JoaoPauloCosta812/Python-Projeto-Final-EBAC  
+🐍 [**Python – Projeto Final EBAC**](https://github.com/JoaoPauloCosta812/Python-Projeto-Final-EBAC)  
 Projeto integrador envolvendo **limpeza de dados**, **análise estatística**, **modelagem preditiva** e apresentação de resultados, aplicando conceitos fundamentais da Ciência de Dados.
 
-🗄️ **SQL – Projeto EBAC**  
-🔗 https://github.com/JoaoPauloCosta812/SQL-Projeto-EBAC  
+🗄️ [**SQL – Projeto EBAC**](https://github.com/JoaoPauloCosta812/SQL-na-AWS-Projeto-EBAC)   
 Criação de banco de dados relacional e desenvolvimento de **consultas SQL avançadas** (joins, agregações e views) para análise de dados.
 
-🔍 **Desafio da Imersão de Dados Python**  
-🔗 https://github.com/JoaoPauloCosta812/Desafio-da-Imersao-de-Dados-Python  
+🔍 [**Desafio da Imersão de Dados Python**](https://github.com/JoaoPauloCosta812/Desafio-da-Imersao-de-Dados-Python)   
 Desafio prático com dados reais, abordando **tratamento de dados**, **visualizações** e **análise exploratória**, demonstrando iniciativa e capacidade analítica.
 
 ---
