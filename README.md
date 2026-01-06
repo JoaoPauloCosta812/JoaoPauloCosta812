@@ -1,6 +1,6 @@
 ## 👋 Hello World!
 Seja muito bem-vindo(a) ao meu GitHub!  
-Me chamo **João Paulo Costa**, tenho **21 anos** e sou **estudante de Ciência de Dados**, apaixonado por tecnologia, análise e aprendizado contínuo.
+Me chamo **João Paulo Costa**, tenho **22 anos** e sou **estudante de Ciência de Dados**, apaixonado por tecnologia, análise e aprendizado contínuo.
 
 ---
 
@@ -65,12 +65,3 @@ Atuar como **Analista ou Cientista de Dados Júnior**, aplicando dados, estatís
   <a href="https://www.linkedin.com/in/joaopaulocostaleite812" target="_blank">💼 LinkedIn</a> |
   <a href="https://www.kaggle.com/joopaulocosta812" target="_blank">📊 Kaggle</a>
 </p>
-
----
-
-## 🐍 Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPauloCosta812/JoaoPauloCosta812/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPauloCosta812/JoaoPauloCosta812/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoPauloCosta812/JoaoPauloCosta812/output/github-contribution-grid-snake.svg">
-</picture>
